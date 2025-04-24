@@ -12,7 +12,7 @@
 // const my = "my";
 // const name = "name";
 // const is = "is";
-// const yourName = prompt("введіть ваше ім'я ");
+// const yourName = prompt("введіть ваше ім'я");
 // const fullName = `${my} ${name} ${is} ${yourName}`;
 // console.log(fullName);
 
@@ -20,6 +20,6 @@
 
 //Створіть змінну userName з ім’ям користувача і змінну payment з сумою до оплати. За допомогою шаблонного рядка виведіть на екран через alert повідомлення на прикладі цього: «Дякуємо, Олександро! До сплати 300 гривень»
 
-// const userName = prompt("Введіть ваше ім'я:");
-// const payment = prompt("Ваша сума до оплати:");
+// const userName = prompt("Введіть ваше ім'я");
+// const payment = prompt("Ваша сума до оплати");
 // console.log(alert(`Дякуємо, ${userName}! До сплати ${payment} гривень.`));
